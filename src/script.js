@@ -7,7 +7,7 @@ $(document).ready(function() {
 		$(this).toggleClass('is-opened');
     $clickMe.toggleClass('is-hidden');
    
-  $("#text").html("Helloworld!"); 
+  $("#text").html("Helloworld111!"); 
 
 	});
 
